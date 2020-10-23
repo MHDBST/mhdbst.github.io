@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: PerSenT dataset
-description: PerSenT: PerSen SenTiment analysis dataset. A dataset to fiind the author's sentiment toward a person in news domain.
+description: PerSenT: PerSen SenTiment analysis dataset. 
+A challenge dataset for author's sentiment analysis in news domain.
