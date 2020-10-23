@@ -1,5 +1,5 @@
 # What is PerSenT?
-## PerSenT is a Person SenTiment analysis, a challenge dataset for author's sentiment prediction in news domain.
+## PerSenT is a Person SenTiment analysis dataset, a challenge dataset for author's sentiment prediction in news domain.
 
 
 You can find the paper here [Author's sentiment analysis]() 
