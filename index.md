@@ -2,7 +2,7 @@
 ### Person SenTiment, a challenge dataset for author's sentiment prediction in news domain.
 
 
-You can find the paper here [Author's sentiment analysis]() 
+You can find our paper [Author's sentiment prediction]() 
 
 Mohaddeseh Bastan, Mahnaz Koupaee, Youngseo Son, Richard Sicoli, Niranjan Balasubramanian. COLING2020
 
@@ -12,7 +12,10 @@ Even though sentiment analysis has been well-studied on a wide range of domains,
 
 ### Dataset Statistics
 
-### Download the data
 
-### You like us? Cite us!
+### Download the data
+You can download the data set URLs from [here](https://github.com/MHDBST/PerSenT/blob/main/train_dev_test_URLs.pkl)
+The processed version of the dataset which contains used paragraphs, document-level, and paragraph-level labels can be download seperataly as [train](https://github.com/MHDBST/PerSenT/blob/main/train), [dev](https://github.com/MHDBST/PerSenT/blob/main/dev), [random test](https://github.com/MHDBST/PerSenT/blob/main/random_test), and [fixed test](https://github.com/MHDBST/PerSenT/blob/main/fixed_test).
+
+### Liked us? Cite us!
 
