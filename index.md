@@ -8,7 +8,10 @@ Mohaddeseh Bastan, Mahnaz Koupaee, Youngseo Son, Richard Sicoli, Niranjan Balasu
 
 Even though sentiment analysis has been well-studied on a wide range of domains, there hasn’t been much work on inferring author sentiment in news articles. To address this gap, we introduce PerSenT, a crowd-sourced dataset that captures the sentiment of an author towards the main entity in a news article. We present empirical and qualitative analyses that illustrate the specific challenges posed by this dataset. We release this dataset with 5.3k documents and 38k paragraphs with 3.2k unique entities as a challenge in entity sentiment analysis.
 
-### Examples
+### Example
+In the following example we see a 4-paragraph document about an entity (Donald Trump). Each paragraphs are labeled separately and finally the author's sentiment towards the whole document is mentioned in the last raw. For all of the documents in the dataset we have both paragraph-level and document-level labels.
+
+
 <a href="https://github.com/MHDBST/PerSenT/blob/main/example2.png?raw=true"><img src="https://github.com/MHDBST/PerSenT/blob/main/example2.png?raw=true" alt="Image of PerSenT stats"/></a>
 
 
