@@ -17,7 +17,7 @@ Even though sentiment analysis has been well-studied on a wide range of domains,
 ### Download the data
 You can download the data set URLs from [here](https://github.com/MHDBST/PerSenT/blob/main/train_dev_test_URLs.pkl)
 
-The processed version of the dataset which contains used paragraphs, document-level, and paragraph-level labels can be download separately as [train](https://github.com/MHDBST/PerSenT/blob/main/train), [dev](https://github.com/MHDBST/PerSenT/blob/main/dev), [random test](https://github.com/MHDBST/PerSenT/blob/main/random_test), and [fixed test](https://github.com/MHDBST/PerSenT/blob/main/fixed_test).
+The processed version of the dataset which contains used paragraphs, document-level, and paragraph-level labels can be download separately as [train](https://github.com/MHDBST/PerSenT/blob/main/train.csv), [dev](https://github.com/MHDBST/PerSenT/blob/main/dev.csv), [random test](https://github.com/MHDBST/PerSenT/blob/main/random_test.ccsv), and [fixed test](https://github.com/MHDBST/PerSenT/blob/main/fixed_test.csv).
 
 ### Liked us? Cite us!
 
