@@ -12,7 +12,7 @@ Even though sentiment analysis has been well-studied on a wide range of domains,
 
 
 ### Dataset Statistics
-<a href="https://github.com/MHDBST/MyEntity/blob/master/my_entity_networks/entity_networks/data_stats.png"><img src="https://github.com/MHDBST/MyEntity/blob/master/my_entity_networks/entity_networks/data_stats.png" alt="Image of PerSenT stats" width="500px"/></a>
+<a href="https://github.com/MHDBST/PerSenT/blob/main/data_stats.png"><img src="https://github.com/MHDBST/PerSenT/blob/main/data_stats.png" alt="Image of PerSenT stats" width="600px"/></a>
 
 ### Download the data
 You can download the data set URLs from [here](https://github.com/MHDBST/PerSenT/blob/main/train_dev_test_URLs.pkl)
